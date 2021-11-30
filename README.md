@@ -1,129 +1,14 @@
-# npm-package-template
+# PayPal Money Generator 2021 & 2022 ** Free PayPal Money Adder
+Welcome to our website page where you will be able to use the paypal money generator to be able to get unlimited money for yourself. The procedure to do this is very easy. You will be able to get as much cash as you want within a reasonable amount of time. It is well known that our hack is the only one that works. While others try to emulate how we do it, we are still the only website without verification. You will be able to do this without any complications.
 
-[![NPM](https://nodei.co/npm/npm-package-template.png)](https://nodei.co/npm/npm-package-template/)
+👉👉(Click Here To Use The Paypal Money Generator)[https://bit.ly/2021-free-paypal-cash]
 
-[![NPM version](https://img.shields.io/npm/v/npm-package-template.svg)](https://www.npmjs.com/package/npm-package-template)
-[![Build Status](https://travis-ci.org/remarkablemark/npm-package-template.svg?branch=master)](https://travis-ci.org/remarkablemark/npm-package-template)
-[![Coverage Status](https://coveralls.io/repos/github/remarkablemark/npm-package-template/badge.svg?branch=master)](https://coveralls.io/github/remarkablemark/npm-package-template?branch=master)
-[![Dependency status](https://david-dm.org/remarkablemark/npm-package-template.svg)](https://david-dm.org/remarkablemark/npm-package-template)
+## What is paypal money adder?
+Have you ever been in dire finincial situation with no where to go? Now you know the feeling of what is like to really need money. Our paypal money generator will help you get as much cash as you need. The cash is added to your paypal account instantly. It is the only way to be able to get as much free money added to your paypal account. We do not require any sensitive information from you. The only thing we require is your paypal email address so we know where to safely send the money. If you are wondering how to use, we have provided step by step instruction below so you can enjoy your free money.
 
-An npm package template.
-
-## Installation
-
-Clone repository with Git:
-
-```sh
-$ git clone https://github.com/remarkablemark/npm-package-template.git
-$ cd npm-package-template
-```
-
-Or download repository with ZIP:
-
-```sh
-$ curl -LO https://github.com/remarkablemark/npm-package-template/archive/master.zip
-$ unzip master.zip
-$ rm master.zip
-$ cd npm-package-template
-```
-
-## Usage
-
-Rename package (use [npm-package-name-checker](https://remarkablemark.org/npm-package-name-checker/) to check for name availability):
-
-```sh
-# replace $NAME with your package name
-$ git grep -l npm-package-template | xargs sed -i '' -e "s/npm-package-template/$NAME/g"
-```
-
-Manually update the files:
-
-- [ ] LICENSE
-- [ ] README.md
-- [ ] package.json
-
-Reinitialize Git repository:
-
-```sh
-$ rm -rf .git
-$ git init
-```
-
-Install package dependencies:
-
-```sh
-$ npm install
-```
-
-Make first commit:
-
-```sh
-$ git add .
-$ git commit -m "feat: initial commit"
-```
-
-## Testing
-
-Run tests:
-
-```sh
-$ npm test
-```
-
-Run tests in watch mode:
-
-```sh
-$ npm run test:watch
-```
-
-Run tests with coverage:
-
-```sh
-$ npm run test:coverage
-```
-
-View coverage in browser:
-
-```sh
-$ npm run test:coverage:report
-$ open coverage/index.html
-```
-
-Lint files:
-
-```sh
-$ npm run lint
-```
-
-Fix lint errors:
-
-```sh
-$ npm run lint:fix
-```
-
-## Release
-
-Only collaborators with credentials can release and publish:
-
-```sh
-$ npm run release
-$ git push --follow-tags && npm publish
-```
-
-To see what files are going to be published, run the command:
-
-```sh
-$ npm pack --dry-run
-# tar tvf $(npm pack)
-```
-
-## Support
-
-- [Patreon](https://b.remarkabl.org/patreon)
-- [Ko-fi](https://b.remarkabl.org/ko-fi)
-- [Liberapay](https://b.remarkabl.org/liberapay)
-- [Teepsring](https://b.remarkabl.org/teespring)
-
-## License
-
-[MIT](https://github.com/remarkablemark/npm-package-template/blob/master/LICENSE)
+### How to use the paypal hack
+We want to mention before hand that this is not an illegal or fake way to get free paypal money in 2021. It is the best legit way that you will be able to accumulate funds into your very own paypal account. It is worth noting that the tool is very easy to use and does require any sensitive information.
+1. Visit our webste from here
+2. Enter your paypal email address ( this is securely stored inour servers)
+3. Enter the amount that you want
+4. Press the generated button at the bottom of the page.
